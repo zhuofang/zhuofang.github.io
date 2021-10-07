@@ -17,7 +17,7 @@ Email me: zhuofang at caltech dot edu
 
 
 
-### Small image
+### Small cute image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
