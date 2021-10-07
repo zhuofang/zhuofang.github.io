@@ -6,10 +6,14 @@ Hello! Welcome to my page!
 
 # Introduction
 
-There is nothing here.
+There is nothing here. Haven't thought about what to show on this webpage.
+
 
 [Click to see my favorite theorem](https://en.wikipedia.org/wiki/Spectral_theorem).
-<!-- 
+
+
+**The rest are template. ** 
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -125,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
- -->
+
