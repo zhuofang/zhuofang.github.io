@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! Welcome to my page!
+Hello! I'm a graduate student at HSS.
 
 ### Introduction
 
