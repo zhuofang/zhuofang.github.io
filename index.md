@@ -7,7 +7,6 @@ Hello! Welcome to my page!
 # Introduction
 
 There is nothing here.
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Click to see my favorite theorem](https://en.wikipedia.org/wiki/Spectral_theorem).
 <!-- 
