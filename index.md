@@ -4,10 +4,13 @@ layout: default
 
 Hello! Welcome to my page!
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Introduction
+
+There is nothing here.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Click to see my favorite theorem](https://en.wikipedia.org/wiki/Spectral_theorem).
-
+<!-- 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -123,3 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
