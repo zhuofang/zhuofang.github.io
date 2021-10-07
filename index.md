@@ -11,8 +11,12 @@ There is nothing here. Haven't thought about what to show on this webpage.
 
 [Click to see my favorite theorem](https://en.wikipedia.org/wiki/Spectral_theorem).
 
+# Contact
 
-**The rest are template. ** 
+Email me: zhuofang at caltech dot edu
+
+
+**The rest are template.** 
 
 There should be whitespace between paragraphs.
 
