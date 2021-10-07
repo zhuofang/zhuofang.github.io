@@ -6,7 +6,7 @@ Hello! Welcome to my page!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Click to see my favorite theorem](./https://en.wikipedia.org/wiki/Spectral_theorem).
+[Click to see my favorite theorem](https://en.wikipedia.org/wiki/Spectral_theorem).
 
 There should be whitespace between paragraphs.
 
