@@ -2,9 +2,11 @@
 layout: default
 ---
 
+Hello! Welcome to my page!
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Click to see my favorite theorem](./https://en.wikipedia.org/wiki/Spectral_theorem).
 
 There should be whitespace between paragraphs.
 
