@@ -6,7 +6,7 @@
 
     function init() {
         // assign events for the fetch button 
-        fixScale();
+        // fixScale(doc);
 
     }
 
