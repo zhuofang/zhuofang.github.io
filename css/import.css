@@ -487,3 +487,45 @@ screen and (max-width: 580px) {
         content: 'at https://github.com/'
     }
 }
+
+.btn-social {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+}
+
+footer .btn-social {
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.list-inline {
+    /* padding-left: 0; */
+    list-style: none;
+    margin-left: -40px;
+    display: inline-flex;
+}
+
+
+/* footer>ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+} */
+
+
+/* *:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+} */
